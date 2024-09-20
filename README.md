@@ -56,4 +56,7 @@ Duration: Jun 2021 – Aug 2021 | Kunming, Yunnan
 ## Projects & Achievements
 ### MathorCup Third University Mathematical Modeling Challenge (Big Data Track)
 #### Beijing Mobile User Experience Analysis and Satisfaction Prediction
-- Feb 2023 – Apr 2023 （Team Leader）
+Feb 2023 – Apr 2023 （Team Leader）
+- Awarded First Prize at the national level.
+- Led a team to analyze factors influencing user experience and predicted satisfaction using big data techniques.
+
